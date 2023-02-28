@@ -4,7 +4,7 @@ A Calculator that can calculate love using some factors. For the backend I have 
 
 ## Getting Started
 
-[![Love Calculator](images/display.png)(https://www.youtube.com/embed/GxCHEa1r6k4)
+[![Love Calculator](images/display.png)](https://www.youtube.com/embed/GxCHEa1r6k4)
 
 
 
