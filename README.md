@@ -1,10 +1,15 @@
 # love_calculator
 
-A new Flutter project.
+A Calculator that can calculate love using some factors. For the backend I have used Rapid API to get result.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+[![Love Calculator](display.png)](https://www.youtube.com/embed/GxCHEa1r6k4)
+
+
+
+
+## Click the Image to check more about the project.
 
 A few resources to get you started if this is your first Flutter project:
 
