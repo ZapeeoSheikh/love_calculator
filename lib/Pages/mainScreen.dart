@@ -657,6 +657,8 @@ class _MainScreenState extends State<MainScreen> {
         setState(() {
           maleController.clear();
           femaleController.clear();
+          maleAgeController.clear();
+          femaleAgeController.clear();
         });
       } else
         ScaffoldMessenger.of(context).showSnackBar(SnackBar(
